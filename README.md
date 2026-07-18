@@ -6,11 +6,14 @@
 
 ```python
 class Harunsakiua:
-    alias       = "Aroshi"
-    role        = "Adversarial Automation Engineer"
-    stack       = ["Python", "Go", "Rust", "Bash"]
-    focus       = ["Red Team", "Bug Bounty", "Proxy Infra", "OSINT"]
-    philosophy  = "Action > Analysis. Free > Paid. Build > Buy."
+    def __init__(self):
+        self.alias       = "Aroshi"
+        self.role        = "Adversarial Automation"
+        self.stack       = ["Python", "Go", "Rust", "Bash"]
+        self.focus       = ["Red Team", "Bug Bounty", "OSINT"]
+        
+    def philosophy(self) -> str:
+        return "Action > Analysis | Free > Paid | Build > Buy"
 ```
 
 ---
