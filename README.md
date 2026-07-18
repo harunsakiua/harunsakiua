@@ -52,3 +52,9 @@ class Harunsakiua:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harunsakiua&color=00FF41&style=flat-square" />
 </p>
+
+### 🛠 More Projects
+
+| Project | Description |
+|---------|-------------|
+| [**cf-nuyul**](https://github.com/harunsakiua/cf-nuyul) | Mass Cloudflare Workers AI token farming — Boterdrop + Tempik + 2captcha |
